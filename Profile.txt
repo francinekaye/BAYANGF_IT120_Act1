@@ -1,0 +1,9 @@
+FirstName: Francine Kaye
+MiddleName: Panganiban
+LastName: Bayang
+Age: 20
+Birthdate: March 19, 2005
+Birth Place: Butuan
+Religion: Catholic
+Father’s Name: Ariel C. Bayang
+Mother’s Name: Hannie Mae Panganiban 
